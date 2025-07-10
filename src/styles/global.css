@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+@plugin "@tailwindcss/typography";
+@config "../../tailwind.config.js";
+@import './theme.css';
+@import '../assets/fonts/nudica.css';
